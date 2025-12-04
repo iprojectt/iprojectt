@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm raj</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iprojectt&label=Profile%20views&color=0e75b6&style=flat" alt="iprojectt" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iprojectt&label=Profile%20views&color=0e75b6&style=flat" alt="iprojectt" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iprojectt" alt="iprojectt" /></a> </p> -->
 
-- 📫 How to reach me **raj.projecttx@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15-qdSIsSrBERMLiornag_1hrCMjoS1-u/view?usp=drive_link](https://drive.google.com/file/d/15-qdSIsSrBERMLiornag_1hrCMjoS1-u/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
