@@ -4,10 +4,10 @@ Hi, I’m **Prakhar Raj**! 👋
 I am a final year B.Tech ECE student at **IIIT Hyderabad**, specializing in the intersection of **Generative AI** and **Computer Systems**. 
 
 **Recent Work:**
-*   **LLM Training:** Pretrained a 120M param transformer from scratch (PyTorch DDP).
-*   **Systems:** Custom UNIX-like Shell in C; gem5 simulation infrastructure.
 *   **Agentic AI:** RAG pipelines with LangGraph and Elasticsearch.
-  
+*   **Systems:** Custom UNIX-like Shell in C; gem5 simulation infrastructure.
+*   **LLM Training:** Pretrained a 120M param transformer from scratch (PyTorch DDP).
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iprojectt&label=Profile%20views&color=0e75b6&style=flat" alt="iprojectt" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iprojectt" alt="iprojectt" /></a> </p> -->
