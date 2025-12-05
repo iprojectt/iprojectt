@@ -68,8 +68,8 @@ I am a final year B.Tech ECE student at **IIIT Hyderabad**, specializing in the 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iprojectt&show_icons=true&locale=en&theme=tokyonight" alt="iprojectt" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iprojectt&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iprojectt" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iprojectt&show_icons=true&locale=en&theme=tokyonight" alt="iprojectt" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=iprojectt&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iprojectt" height="180" />
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iprojectt&" alt="iprojectt" /></p>
 
