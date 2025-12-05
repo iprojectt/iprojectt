@@ -1,12 +1,22 @@
 # 💫 About Me
 Hi, I’m **Prakhar Raj**! 👋
 
-I am a final year B.Tech ECE student at **IIIT Hyderabad**, specializing in the intersection of **Generative AI** and **Computer Systems**. 
+I am a final year B.Tech ECE student at **IIIT Hyderabad** .
+
+
+       def get_current_focus(self):
+        return {
+            "Systems": ["gem5 Simulation", "Memory Regulation", "Linux/C"],
+            "AI": ["LLM Pre-training", "Agentic RAG", "Distributed Training"]
+        }
+
 
 **Recent Work:**
 *   **Agentic AI:** RAG pipelines with LangGraph and Elasticsearch.
 *   **Systems:** Custom UNIX-like Shell in C; gem5 simulation infrastructure.
 *   **LLM Training:** Pretrained a 120M param transformer from scratch (PyTorch DDP).
+
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iprojectt&label=Profile%20views&color=0e75b6&style=flat" alt="iprojectt" /> </p> -->
 
@@ -71,7 +81,7 @@ I am a final year B.Tech ECE student at **IIIT Hyderabad**, specializing in the 
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iprojectt&show_icons=true&locale=en&theme=tokyonight" alt="iprojectt" height="180" />
   <!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=iprojectt&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iprojectt" height="180" /> -->
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iprojectt&" alt="iprojectt" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iprojectt&" alt="iprojectt" /></p> -->
 
 
 ![snake gif](https://raw.githubusercontent.com/iprojectt/iprojectt/output/github-contribution-grid-snake.svg)
